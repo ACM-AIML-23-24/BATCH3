@@ -7,3 +7,4 @@ Append yours names along with your registration number here
 3. Misha Jain - 230962036
 4. Suprotiv Moitra - 220905548
 5. Anuj Kamath - 220962446
+6. J. Karthikeyan - 220962272
