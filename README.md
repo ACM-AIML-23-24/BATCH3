@@ -10,3 +10,4 @@ Append yours names along with your registration number here
 6. J. Karthikeyan - 220962272
 7. Anish Seyta- 220962005
 8. Aryan GUpta - 220905398
+9. Nitant Vaidya-220911378
