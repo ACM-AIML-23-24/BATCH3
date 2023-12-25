@@ -11,3 +11,5 @@ Append yours names along with your registration number here
 7. Anish Seyta- 220962005
 8. Aryan GUpta - 220905398
 9. Nitant Vaidya-220911378
+10. Hardik Garg - 220962071
+    
